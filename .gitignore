@@ -1,0 +1,10 @@
+data/
+submit_file/
+__pycache__/
+
+*.docx
+*.pt
+*.zip
+
+*.json
+*.pdf
